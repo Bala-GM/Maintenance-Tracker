@@ -1,0 +1,9 @@
+Project Title : Preventive Maintenance Tracker
+Date of Created : 10/Oct/2022 thursday time 11.35 PM
+======================================================================================================
+
+PREVENTICE MAINTENANCE TRACKER IN EXCEL VBA PROGRAM DEV. 2022
+
+1. Based on tracker the lead time next Maintenance activity.
+2. Also check wheather it Maintenance done on the time are not.
+3. done it Feeder, Changer, Head.
